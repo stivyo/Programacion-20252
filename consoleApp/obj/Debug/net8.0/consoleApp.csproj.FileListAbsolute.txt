@@ -1,0 +1,15 @@
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\bin\Debug\net8.0\consoleApp.exe
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\bin\Debug\net8.0\consoleApp.deps.json
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\bin\Debug\net8.0\consoleApp.runtimeconfig.json
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\bin\Debug\net8.0\consoleApp.dll
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\bin\Debug\net8.0\consoleApp.pdb
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\obj\Debug\net8.0\consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\obj\Debug\net8.0\consoleApp.AssemblyInfoInputs.cache
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\obj\Debug\net8.0\consoleApp.AssemblyInfo.cs
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\obj\Debug\net8.0\consoleApp.csproj.CoreCompileInputs.cache
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\obj\Debug\net8.0\consoleApp.sourcelink.json
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\obj\Debug\net8.0\consoleApp.dll
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\obj\Debug\net8.0\refint\consoleApp.dll
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\obj\Debug\net8.0\consoleApp.pdb
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\obj\Debug\net8.0\consoleApp.genruntimeconfig.cache
+C:\Users\yojan\Desktop\Programacion-20252\consoleApp\obj\Debug\net8.0\ref\consoleApp.dll
